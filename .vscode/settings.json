@@ -1,5 +1,12 @@
 {
-    "java.project.sourcePaths": ["src"],
+    "java.project.sourcePaths": [
+        "05/src",
+        "04/src",
+        "03/src",
+        "02/src",
+        "01/src",
+        "06/src"
+    ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
